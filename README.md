@@ -1,17 +1,10 @@
-<h1 align="center">
-  <span class="glow">Hi I'm JD || Cyber Security Student</span>
-</h1>
-
-<style>
-.glow {
+<h1 align="center" .glow {
   font-size: 2em;
   font-weight: bold;
   color: #00ffff;
   text-align: center;
   animation: glowFade 2s ease-in-out infinite alternate;
-}
-
-@keyframes glowFade {
+} @keyframes glowFade {
   0% {
     text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 40px #00ffff;
     opacity: 1;
@@ -24,8 +17,9 @@
     text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 40px #00ffff;
     opacity: 1;
   }
-}
-</style>
+}>
+  <span class="glow">Hi I'm JD || Cyber Security Student</span>
+</h1>
 <h3 align="center">Cyber Security Student | Web & Python Learner | Future Ethical Hacker 🛡️</h3>
 
 <p align="center">
